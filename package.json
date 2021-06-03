@@ -1,0 +1,10 @@
+{
+    "name": "unlock-azure-media-livestream",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {},
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {}
+}
