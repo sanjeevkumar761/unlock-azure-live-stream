@@ -6,7 +6,7 @@ Example of Ethereum Unlock protocol with Azure Media Services Live Stream. Allow
 
 # Pre-requisites
 1. Go to https://app.unlock-protocol.com/dashboard and create a lock (install Metamask or other wallet if you don't have already and add some test Ethers to your account by using Rinkeby testnet faucet https://faucet.rinkeby.io/ ). Always use Ethereum testnet e.g., Rinkeby for this demo. Never transfer actual Ethereum/ETH from mainnet for this demo.      
-2. Replace lock id from Unlock protocol in public/index.html in script > unlockProtocolConfig > locks with your lock ID  
+2. Replace lock ID from Unlock protocol in public/index.html in script > unlockProtocolConfig > locks with your lock ID  
 3. Create a livestream in Azure Media Services. See tutorial here https://docs.microsoft.com/en-us/azure/media-services/latest/live-event-obs-quickstart .       
 
 # Install and Run
