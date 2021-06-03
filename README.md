@@ -14,7 +14,7 @@ Example of Ethereum Unlock protocol https://unlock-protocol.com/ with Azure Medi
 2. node index.js
 3. Open browser and navigate to http://localhost:4000/
 5. Click "Unlock" button and Select your authentication method as Wallet  
-6. Confirm test transaction in your Metamask wallet (make sure you are on Rinkeby test not. You must NOT use Ethereum mainnet for this demo)  
+6. Confirm test transaction in your Metamask wallet (make sure you are on Rinkeby testnet. You must NOT use Ethereum mainnet for this demo)  
 7. Click on Back to Site button on Unlock protocol dialog box  
 8. You can see Azure Media Services Livestream page (and see the live stream if it is on). You can enter the URL of your own Azure Media Services Livestream here and users can watch it.  
 
