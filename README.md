@@ -5,15 +5,19 @@ Example of Ethereum Unlock protocol with Azure Media Services Live Stream. Allow
 *You agree to the dislaimer mentioned at the bottom of this page, when you proceed further with the details and steps given below.*
 
 # Pre-reqisites
-1. Go to https://app.unlock-protocol.com/dashboard and create a lock (install Metamask or other wallet if you don't have already)  
-2. Replace lock id in public/index.html in script > unlockProtocolConfig > locks with your lock ID
+1. Go to https://app.unlock-protocol.com/dashboard and create a lock (install Metamask or other wallet if you don't have already and add some test Ethers to your account by using Rinkeby testnet faucet https://faucet.rinkeby.io/ ). Always use Ethereum testnet e.g., Rinkeby for this demo. Never transfer actual Ethereum/ETH from mainnet for this demo.      
+2. Replace lock id from Unlock protocol in public/index.html in script > unlockProtocolConfig > locks with your lock ID  
+3. Create a livestream in Azure Media Services. See tutorial here https://docs.microsoft.com/en-us/azure/media-services/latest/live-event-obs-quickstart .       
 
 # Install and Run
 1. npm install
 2. node index.js
 3. Open browser and navigate to http://localhost:4000/
+5. Click "Unlock" button and Select your authentication method as Wallet  
+6. Confirm test transaction in your Metamask wallet (make sure you are on Rinkeby test not. You must NOT use Ethereum mainnet for this demo)  
+7. Click on Back to Site button on Unlock protocol dialog box  
+8. You can see Azure Media Services Luvestream page (and see the live stream if it is on). You can enter the URL of your own Azure Media Services Livestream here and watch it.  
 
-5. 
 
 
 

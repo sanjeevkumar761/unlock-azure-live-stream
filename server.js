@@ -2,12 +2,12 @@
 
 const express = require('express')
 const app = express()
-const port = 4001
+const port = 4000
 
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Unlock protocol with Azure Media Services Livestream demo!')
 })
 
 app.listen(port, () => {
