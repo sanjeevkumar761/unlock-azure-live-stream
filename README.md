@@ -1,4 +1,4 @@
-# Azure Live Stream Demo with Unlock Protocol for Ethereum
+# Azure Live Stream Demo Dapp with Unlock Protocol for Ethereum
 Example of Ethereum Unlock protocol https://unlock-protocol.com/ with Azure Media Services Live Stream https://docs.microsoft.com/en-us/azure/media-services/latest/stream-live-streaming-concept. Allows to lock/unlock Azure Media Live Stream and build subscription models for it.  
 
 # Always use Ethereum testnet e.g., Rinkeby for this demo. Never transfer actual Ethereum/ETH from mainnet for this demo.   
