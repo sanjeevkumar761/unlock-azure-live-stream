@@ -1,11 +1,19 @@
 # unlock-azure-live-stream
 Example of Ethereum Unlock protocol with Azure Media Services Live Stream. Allows to lock/unlock Azure Media Live Stream.  
+
+*Always use Ethereum testnet e.g., Rinkeby for this demo. Never transfer actual Ethereum/ETH from mainnet for this demo.
 *You agree to the dislaimer mentioned at the bottom of this page, when you proceed further with the details and steps given below.*
+
+# Pre-reqisites
+1. Go to https://app.unlock-protocol.com/dashboard and create a lock (install Metamask or other wallet if you don't have already)  
+2. Replace lock id in public/index.html in script > unlockProtocolConfig > locks with your lock ID
 
 # Install and Run
 1. npm install
 2. node index.js
 3. Open browser and navigate to http://localhost:4000/
+
+5. 
 
 
 
