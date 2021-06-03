@@ -5,7 +5,7 @@ Example of Ethereum Unlock protocol with Azure Media Services Live Stream. Allow
 # Install and Run
 1. npm install
 2. node index.js
-3. Open browser and navigate to http://<localhost>:4000/
+3. Open browser and navigate to http://localhost:4000/
 
 
 
