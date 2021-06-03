@@ -1,8 +1,10 @@
 # unlock-azure-live-stream
-Example of Ethereum Unlock protocol with Azure Media Services Live Stream  
+Example of Ethereum Unlock protocol with Azure Media Services Live Stream. Allows to lock/unlock Azure Media Live Stream.  
 *You agree to the dislaimer mentioned at the bottom of this page, when you proceed further with the details and steps given below.*
 
-
+# Install and Run
+1. npm install
+2. 
 
 
 
